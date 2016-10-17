@@ -1,0 +1,14 @@
+Olá Professor!
+
+Segue em anexo a imagem da simulação da treliça e o arquivo da simulação.
+Eu esqueci de pegar as dimensões da secção da madeira, então assumi que era um quadrado e usei 28 mm como medida.
+Utilizei o módulo de elasticidade do alumínio, que vale 7030 MPa.
+As linhas azuis são o desenho da treliça deformada.
+As dimenções ao lado dos lados são suas deformações em relação ao eixo y.
+As deformações em relação ao eixo x eram cerca de 10 vezes menores do que as do eixo y, como o strain gauge so detecta a deformação em um dos sentidos, creio que apenas a maior será levada em conta.
+ 
+O arquivo TRELIÇA.ftl deve ser aberto com o programa ftools.
+ 
+Desculpe a demora,
+ 
+Raul Vaz
